@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushplata79" alt="pushplata79" /></a> </p>
 
-- 🔭 I’m Currently Working as [External Instructor](Masai)
+- 🔭 I’m Currently Working as [External Instructor](https://www.masaischool.com/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/poshiplattabagati/](https://www.linkedin.com/in/poshiplattabagati/)
 
